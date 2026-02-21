@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-cloud-port-runner-scale-x9k",
+  "version": "1.0.0",
+  "description": "Real-time data processing platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "cloud-port-runner-scale-x9k"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-cloud-port-runner-scale-x9k.git"
+  }
+}
